@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Scinkare - Skincare Tracking App
 
 A beautiful, minimal React application for tracking your skincare routine and progress. Built with React, TypeScript, and TailwindCSS.
@@ -156,3 +157,7 @@ For questions or support, please contact us through the Contact page in the app 
 ---
 
 **Scinkare** - Track your skincare progress and achieve your best skin ever! ✨
+=======
+# SCINKARE
+a skincare tracking website
+>>>>>>> dfde62123cff87c4cdefe84936a843cf6eb6ceec
