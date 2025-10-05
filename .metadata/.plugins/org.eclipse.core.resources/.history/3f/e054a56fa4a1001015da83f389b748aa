@@ -1,0 +1,12 @@
+package com.scinkare;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ScinkareBackendApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ScinkareBackendApplication.class, args);
+    }
+}
